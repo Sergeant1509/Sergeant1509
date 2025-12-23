@@ -36,20 +36,15 @@
 ---
 
 ### 🌐 Connect With Me
-<!-- Dark Mode -->
 <p align="center">
   <a href="mailto:abhijeet.gautam1509@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
-
-<!-- Light Mode -->
-<p align="center">
-  <a href="mailto:abhijeet.gautam1509@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48"/>
+  <a href="https://www.linkedin.com/in/Sergeant1509">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+</p>
 
 
 
@@ -60,9 +55,8 @@
 </p>
 
 
-<!-- Dark -->
-![Snake Dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<!-- Light -->
-![Snake Light](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sergeant1509/Sergeant1509/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
