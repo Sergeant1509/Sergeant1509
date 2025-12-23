@@ -42,10 +42,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Sergeant1509">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
-  </a>
-</p>
+
 
 <!-- Light Mode -->
 <p align="center">
@@ -53,10 +50,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Sergeant1509">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48"/>
-  </a>
-</p>
+
 
 
 ---
