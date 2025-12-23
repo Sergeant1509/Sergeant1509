@@ -1,10 +1,14 @@
-<h1 align="center">
-  Hi 👋, I'm Abhijeet
-</h1>
+<h1 align="center">Abhijeet Gautam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+%7C+Problem+Solver;Learning+AI+%26+Systems;Building+Real-World+Projects;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E6FF&center=true&vCenter=true&width=520&lines=AI+Engineer+in+the+Making;Building+Human-Like+Intelligent+Systems;Exploring+Agents%2C+Vision+%26+Automation;Code+That+Thinks%2C+Not+Just+Runs" />
 </p>
+
+<p align="center">
+  Developer focused on <strong>Artificial Intelligence, automation, and real-world problem solving</strong>.  
+  Passionate about building systems that see, reason, and adapt.
+</p>
+
 
 ---
 
