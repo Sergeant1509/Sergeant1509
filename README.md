@@ -36,14 +36,28 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="(https://www.linkedin.com/in/abhijeet-gautam1509/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<!-- Dark Mode -->
+<p align="center">
   <a href="mailto:abhijeet.gautam1509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/Sergeant1509">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
   </a>
 </p>
+
+<!-- Light Mode -->
+<p align="center">
+  <a href="mailto:abhijeet.gautam1509@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/Sergeant1509">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48"/>
+  </a>
+</p>
+
 
 ---
 
