@@ -18,6 +18,20 @@
 - 🔭 Currently learning **backend + full-stack fundamentals**
 - ⚡ Believe in **learning by building**
 
+## 🚀 Founder Mindset
+
+- 🧠 Building products at the intersection of **AI, hardware, and software**
+- 🔍 Obsessed with **real problems, not features**
+- ⚙️ Belief: *Execution > Ideas*
+- 📈 Long-term vision over short-term hype
+
+### 🧩 Current Focus
+- AI agents & automation
+- Computer vision & context-aware systems
+- Scalable product thinking
+- MVP → Feedback → Iterate
+
+
 ---
 
 ### 🛠️ Tech Stack
