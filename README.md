@@ -55,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Sergeant1509">
+  <a href="www.linkedin.com/in/abhijeet-gautam1509">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
   </a>
 </p>
