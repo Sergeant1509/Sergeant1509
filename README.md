@@ -39,11 +39,11 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,flutter,git,github,vscode&theme=dark" />
 </p>
 ---
-## 🧠 LeetCode Stats
+### 🧠 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/F13kfc7Hbq/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap&animation=true" />
+    <img src="https://leetcard.jacoblin.cool/F13kfc7Hbq?theme=dark&font=Nunito&ext=heatmap&animation=true" />
   </a>
 </p>
 ---
