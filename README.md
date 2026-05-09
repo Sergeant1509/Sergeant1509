@@ -38,8 +38,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,flutter,git,github,vscode&theme=dark" />
 </p>
+
 ---
-### 🧠 **My LeetCode Progress**
+
+### 🧠 My LeetCode Progress
 
 <p align="center">
   <a href="https://leetcode.com/AbhijeetGautam1/">
