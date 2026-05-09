@@ -39,13 +39,14 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,flutter,git,github,vscode&theme=dark" />
 </p>
 ---
-### 🧠 LeetCode Stats
+### 🧠 My LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/F13kfc7Hbq/">
-    <img src="https://leetcard.jacoblin.cool/F13kfc7Hbq?theme=dark&font=Nunito&ext=heatmap&animation=true" />
+  <a href="https://leetcode.com/AbhijeetGautam1/">
+    <img src="https://leetcard.jacoblin.cool/AbhijeetGautam1?theme=dark&font=Nunito&ext=heatmap&animation=true" />
   </a>
 </p>
+
 ---
 
 ### 📊 GitHub Stats
